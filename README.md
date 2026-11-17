@@ -1,22 +1,17 @@
-# MD Nayem Molla — Personal Portfolio
+# MD Nayem Molla — Personal Portfolio (Version 3)
 
-A responsive bilingual (English/Bangla) personal portfolio built with plain HTML, CSS and JavaScript. It is ready for GitHub Pages.
+A bilingual (English/Bangla), responsive static portfolio built with HTML, CSS and JavaScript.
 
-## Preview locally
-Open `index.html` in a browser.
+## Files
+- `index.html` — website
+- `assets/nayem-profile.jpg` — supplied professional portrait
+- `assets/nayem-cv.pdf` — public-safe portfolio CV (does not include national ID, date of birth, family details or home address)
 
-## Publish free with GitHub Pages
-1. Sign in to GitHub and create a **public** repository named `nayem-portfolio` (or `<your-username>.github.io` for a user-site URL).
-2. Upload `index.html` and this `README.md` to the repository root.
+## Publish with GitHub Pages
+1. Create a public GitHub repository, for example `nayem-portfolio`.
+2. Upload the contents of this folder to the repository root (not the folder itself).
 3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **main** and folder **/(root)**, then Save.
-6. Wait for GitHub Pages to publish. The URL will appear in the Pages settings.
+4. Under **Build and deployment**, choose **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
+5. Wait for GitHub Pages to publish the site.
 
-## Personalize before publishing
-- Replace the `NM` initials avatar with a professional headshot if desired.
-- Add your LinkedIn profile URL.
-- Confirm your exact role dates and academic institution names before publishing.
-- Add a CV PDF only after you have a final, up-to-date version.
-
-No build tools or paid hosting are required.
+The site is a static website and needs no build command or server.
